@@ -1,0 +1,42 @@
+text,source,true_sentiment,true_event
+Apple reports record iPhone sales and raises full-year guidance,news,positive,Earnings
+Tesla shares tumble after major recall of 300000 vehicles,news,negative,Regulatory/Legal
+Microsoft to acquire cybersecurity firm in $5 billion deal,news,positive,Merger/Acquisition
+Fed hikes interest rates again as inflation stays stubborn,news,negative,Macroeconomic
+New sanctions and military conflict rattle global markets,news,negative,Geopolitical
+Nvidia unveils new AI chip at annual conference,news,positive,Product Launch
+Goldman Sachs credit rating downgraded amid loan losses,news,negative,Credit Event
+Amazon hit by antitrust lawsuit from regulators,news,negative,Regulatory/Legal
+Pfizer quarterly profit beats estimates on strong vaccine demand,news,positive,Earnings
+Ceasefire agreement eases war tensions and lifts stocks,news,positive,Geopolitical
+JPMorgan warns of rising loan losses as defaults climb,news,negative,Credit Event
+Walmart expands dividend after strong quarterly revenue,news,positive,Earnings
+Intel misses revenue guidance and announces layoffs,news,negative,Earnings
+Netflix launches new ad-supported plan and subscribers jump,news,positive,Product Launch
+Central bank signals rate cut as GDP growth slows,news,neutral,Macroeconomic
+Boeing faces investigation after safety probe,news,negative,Regulatory/Legal
+Disney introduces new streaming rollout in Asia,news,positive,Product Launch
+Exxon announces buyout of rival oil producer,news,positive,Merger/Acquisition
+Recession fears grow after weak jobs report,news,negative,Macroeconomic
+Bankruptcy filing by major retailer triggers bond default fears,news,negative,Credit Event
+Google wins approval for new product release,news,positive,Product Launch
+Cisco profit growth strong as revenue rises,news,positive,Earnings
+Coca-Cola warns of weak margins as inflation bites,news,negative,Macroeconomic
+Meta Platforms fined by regulator over data practices,news,negative,Regulatory/Legal
+Trade war tariffs escalate between major economies,news,negative,Geopolitical
+Loving my new iPhone $AAPL to the moon bullish,twitter,positive,Other
+$TSLA is a scam crash incoming bearish,twitter,negative,Other
+Nvidia absolutely crushing it with record gains,twitter,positive,Other
+Missile strikes and war fears shock the market today,twitter,negative,Geopolitical
+Fed rate hike fears big shock for stocks,twitter,negative,Macroeconomic
+Netflix wins again strong growth,twitter,positive,Other
+Boeing recall is a disaster shares plunge,twitter,negative,Regulatory/Legal
+Amazon layoffs again weak outlook,twitter,negative,Other
+Disney new launch looks amazing optimism high,twitter,positive,Product Launch
+Intel losses mounting bearish,twitter,negative,Other
+Microsoft Azure outage not good for $MSFT,twitter,negative,Other
+Bank of America reports strong gains and profit growth,news,positive,Earnings
+Johnson & Johnson announces merger with medical device maker,news,positive,Merger/Acquisition
+Government announces new tariffs and embargo on imports,news,negative,Geopolitical
+Company announces quarterly earnings date,news,neutral,Earnings
+Weather delays shipping at major port,news,neutral,Other

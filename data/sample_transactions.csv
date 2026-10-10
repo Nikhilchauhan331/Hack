@@ -1,0 +1,81 @@
+txn_id,counterparty,asset_type,sector,rating,notional,rate,duration,delta
+T000,Stark Ind,equity,Industrials,AA,19000000,0.064,2.6,0.61
+T001,Hooli,bond,Retail,A,46000000,0.0575,4.6,0.68
+T002,Wayne Ent,bond,Tech,AA,13000000,0.0477,7.0,0.42
+T003,Umbrella,bond,Banks,BBB,7000000,0.0754,6.7,0.88
+T004,Globex,bond,Energy,BB,22000000,0.0811,5.4,0.47
+T005,Hooli,loan,Industrials,A,5000000,0.0326,7.5,0.48
+T006,Umbrella,loan,Tech,A,34000000,0.0295,4.7,0.45
+T007,Hooli,equity,Utilities,A,49000000,0.0279,6.0,0.34
+T008,Initech,bond,Utilities,AA,6000000,0.0886,7.6,0.55
+T009,Initech,bond,Utilities,AA,6000000,0.0859,6.4,0.76
+T010,Acme Corp,loan,Banks,A,9000000,0.0361,6.1,0.73
+T011,Wayne Ent,derivative,Banks,A,9000000,0.0879,4.2,0.42
+T012,Stark Ind,loan,Retail,AAA,27000000,0.0345,5.5,0.38
+T013,Umbrella,bond,Tech,BBB,29000000,0.0555,4.2,0.49
+T014,Globex,loan,Utilities,BBB,47000000,0.0548,7.0,0.76
+T015,Hooli,loan,Energy,AA,22000000,0.084,4.0,0.59
+T016,Initech,equity,Banks,AAA,46000000,0.0228,4.7,0.85
+T017,Hooli,derivative,Banks,BBB,37000000,0.0421,7.0,0.69
+T018,Acme Corp,bond,Energy,AA,42000000,0.062,5.0,0.67
+T019,Globex,bond,Retail,AA,10000000,0.0246,3.7,0.76
+T020,Stark Ind,equity,Banks,AA,23000000,0.0366,7.6,0.75
+T021,Acme Corp,loan,Industrials,AAA,45000000,0.0526,4.0,0.51
+T022,Hooli,bond,Energy,BB,37000000,0.0817,7.8,0.45
+T023,Initech,derivative,Energy,AA,11000000,0.0733,7.3,0.56
+T024,Acme Corp,bond,Retail,A,42000000,0.078,4.6,0.59
+T025,Stark Ind,bond,Utilities,BB,38000000,0.0733,6.7,0.39
+T026,Hooli,derivative,Tech,BBB,8000000,0.0695,1.3,0.56
+T027,Stark Ind,equity,Industrials,AA,4000000,0.0795,4.1,0.68
+T028,Wayne Ent,loan,Energy,A,13000000,0.0677,7.9,0.38
+T029,Stark Ind,equity,Banks,BB,24000000,0.0715,5.6,0.38
+T030,Stark Ind,loan,Industrials,A,8000000,0.0411,5.5,0.4
+T031,Acme Corp,derivative,Industrials,BBB,2000000,0.0317,6.3,0.47
+T032,Wayne Ent,equity,Industrials,AAA,6000000,0.073,6.4,0.88
+T033,Wayne Ent,loan,Utilities,BBB,16000000,0.0316,5.7,0.32
+T034,Hooli,bond,Tech,BBB,20000000,0.0844,4.4,0.41
+T035,Stark Ind,equity,Energy,BB,16000000,0.0618,2.5,0.4
+T036,Stark Ind,loan,Retail,BBB,22000000,0.0431,3.3,0.58
+T037,Wayne Ent,bond,Retail,A,36000000,0.0856,3.3,0.31
+T038,Wayne Ent,derivative,Tech,AAA,13000000,0.0309,4.4,0.57
+T039,Umbrella,bond,Retail,A,23000000,0.056,9.0,0.4
+T040,Stark Ind,derivative,Energy,BBB,36000000,0.0264,3.8,0.46
+T041,Wayne Ent,loan,Retail,AA,3000000,0.0876,4.6,0.78
+T042,Initech,loan,Industrials,AA,47000000,0.0603,4.0,0.41
+T043,Acme Corp,bond,Banks,A,49000000,0.0763,5.7,0.67
+T044,Globex,loan,Tech,BBB,15000000,0.0397,8.6,0.54
+T045,Acme Corp,loan,Retail,BB,44000000,0.0761,8.1,0.55
+T046,Umbrella,equity,Banks,AA,13000000,0.0692,4.0,0.79
+T047,Acme Corp,bond,Retail,AA,45000000,0.0651,3.1,0.4
+T048,Globex,loan,Utilities,BBB,33000000,0.0865,8.1,0.85
+T049,Globex,loan,Industrials,BBB,13000000,0.0503,5.0,0.84
+T050,Hooli,equity,Industrials,BBB,4000000,0.0491,6.5,0.7
+T051,Globex,bond,Industrials,B,20000000,0.0684,1.6,0.33
+T052,Wayne Ent,equity,Tech,B,37000000,0.0785,7.9,0.7
+T053,Globex,bond,Energy,BB,12000000,0.0435,3.5,0.66
+T054,Wayne Ent,bond,Banks,BBB,26000000,0.0669,5.0,0.76
+T055,Umbrella,equity,Industrials,A,7000000,0.0346,2.6,0.43
+T056,Globex,derivative,Energy,BBB,21000000,0.0586,4.4,0.87
+T057,Acme Corp,bond,Utilities,AA,2000000,0.0738,7.6,0.83
+T058,Initech,bond,Tech,BBB,49000000,0.0246,7.6,0.37
+T059,Hooli,equity,Utilities,BBB,25000000,0.0709,4.8,0.49
+T060,Acme Corp,bond,Banks,BBB,42000000,0.0211,7.1,0.32
+T061,Globex,equity,Banks,A,7000000,0.0871,4.7,0.8
+T062,Acme Corp,loan,Tech,A,9000000,0.0528,4.0,0.85
+T063,Hooli,bond,Banks,A,9000000,0.0486,5.4,0.89
+T064,Acme Corp,bond,Tech,AAA,28000000,0.0704,2.6,0.67
+T065,Acme Corp,equity,Retail,BB,43000000,0.0566,3.5,0.7
+T066,Umbrella,loan,Retail,A,30000000,0.0712,6.7,0.71
+T067,Initech,equity,Energy,A,24000000,0.0259,7.2,0.64
+T068,Umbrella,derivative,Banks,A,47000000,0.0594,1.5,0.87
+T069,Wayne Ent,derivative,Retail,BBB,10000000,0.0591,6.9,0.66
+T070,Wayne Ent,bond,Retail,A,9000000,0.0852,7.5,0.5
+T071,Umbrella,equity,Utilities,BB,33000000,0.0228,4.6,0.61
+T072,Hooli,loan,Utilities,BB,42000000,0.0517,1.5,0.31
+T073,Stark Ind,bond,Tech,A,14000000,0.0642,6.5,0.73
+T074,Umbrella,loan,Banks,AA,13000000,0.0586,3.0,0.72
+T075,Hooli,loan,Energy,BBB,26000000,0.0252,6.1,0.55
+T076,Globex,loan,Utilities,B,39000000,0.0615,4.0,0.81
+T077,Hooli,equity,Tech,AA,14000000,0.0356,6.1,0.75
+T078,Globex,equity,Utilities,BBB,41000000,0.0337,3.1,0.5
+T079,Globex,loan,Retail,BB,26000000,0.0815,4.8,0.35

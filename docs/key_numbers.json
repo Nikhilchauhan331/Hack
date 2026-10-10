@@ -1,0 +1,22 @@
+{
+  "signals": 84,
+  "sources": 2,
+  "high_impact": 22,
+  "n_triggers": 20,
+  "event": "Geopolitical",
+  "impact": 9.9,
+  "portfolio_m": 1899.0,
+  "loss_m": 166.3,
+  "loss_pct": 8.76,
+  "naive_loss_m": 189.9,
+  "by_asset_loss_m": {
+    "bond": 90.6,
+    "derivative": 15.5,
+    "equity": 51.7,
+    "loan": 8.5
+  },
+  "top_up": "WMT",
+  "top_up_pp": 6.3,
+  "top_down": "GOOGL",
+  "top_down_pp": -5.0
+}
