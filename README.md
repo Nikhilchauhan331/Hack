@@ -1,9 +1,9 @@
-# AI/NLP Financial Risk Engine - S&P Global & Crisil Campus Hackathon
+﻿# AI/NLP Financial Risk Engine - S&P Global & Crisil Campus Hackathon
 
 **Candidate Name:** Nikhil Chauhan
 **College Email ID:** iit2023217@iiita.ac.in
 **College / Campus:** IIIT Allahabad
-**Demo Video Link:** https://drive.google.com/file/d/1awtHy-ApAVg-Pk-aK4JKp8azUZJToK69/view?usp=sharing
+**Demo Video Link:** https://youtu.be/oS8bVuzqLpc
 **Slide Deck Link (if hosted externally):** Included in repo: [`docs/presentation.pdf`](docs/presentation.pdf)
 **GitHub Repository:** [github.com/Nikhilchauhan331/Hack](https://github.com/Nikhilchauhan331/Hack)
 
@@ -99,3 +99,4 @@ headlines manually; the same signals drive both tactical (index weights) and str
 
 ---
 *AI usage disclosure: this project was built with AI assistance (Anthropic Claude) for code scaffolding, documentation and slides; the author reviewed, ran and is responsible for the submission.*
+
