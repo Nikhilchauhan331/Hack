@@ -3,7 +3,7 @@
 **Candidate Name:** Nikhil Chauhan
 **College Email ID:** iit2023217@iiita.ac.in
 **College / Campus:** IIIT Allahabad
-**Demo Video Link:** To be added
+**Demo Video Link:** https://drive.google.com/file/d/1awtHy-ApAVg-Pk-aK4JKp8azUZJToK69/view?usp=sharing
 **Slide Deck Link (if hosted externally):** Included in repo: [`docs/presentation.pdf`](docs/presentation.pdf)
 **GitHub Repository:** [github.com/Nikhilchauhan331/Hack](https://github.com/Nikhilchauhan331/Hack)
 
